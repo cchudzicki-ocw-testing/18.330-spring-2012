@@ -10,7 +10,7 @@ uid: c211db95-89db-de17-36b3-806670e359ff
 
 This page focuses on the course 18.330 _Introduction to Numerical Analysis_ as it was taught by Professor Laurent Demanet in Spring 2012.
 
-This is a lecture-based course on basic techniques for the efficient numerical solution of problems in science and engineering. It is a centerpiece of MIT’s undergraduate offerings in applied mathematics. z
+This is a lecture-based course on basic techniques for the efficient numerical solution of problems in science and engineering. It is a centerpiece of MIT’s undergraduate offerings in applied mathematics.z
 
 ## Course Outcomes
 
