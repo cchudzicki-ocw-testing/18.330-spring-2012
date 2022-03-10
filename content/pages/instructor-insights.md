@@ -2,18 +2,14 @@
 content_type: page
 draft: false
 layout: instructor_insights
-learning_resource_types: []
-ocw_type: CourseSection
 title: Instructor Insights
 uid: c211db95-89db-de17-36b3-806670e359ff
 ---
-//\<!\[CDATA\[ $(function(){ $('#slider').anythingSlider({ theme: 'default', mode: 'horizontal', expand: false, resizeContents: true, showMultiple: false, easing: "swing", buildArrows: true, buildNavigation: false, buildStartStop: false, appendFowardTo: null, appendBackTo: null, appendControlsTo: null, appendNavigationTo: null, appendStartStopTo: null, toggleArrows: false, toggleControls: false, startText: "Start", stopText: "Stop", forwardText: "»", backText: "«", tooltipClass: 'tooltip', enableArrows: true, enableNavigation: true, enableStartStop: true, enableKeyboard: true, startPanel: 1, changeBy: 1, hashTags: false, infiniteSlides: true, navigationFormatter: function(index, panel) { return "" + index; }, navigationSize: false, autoPlay: false, autoPlayLocked: false, autoPlayDelayed: false, pauseOnHover: true, stopAtEnd: false, playRtl: false, delay: 3000, resumeDelay: 15000, animationTime: 600, delayBeforeAnimate : 0, onBeforeInitialize: function(e, slider) {}, onInitialized: function(e, slider) {}, onShowStart: function(e, slider) {}, onShowStop: function(e, slider) {}, onShowPause: function(e, slider) {}, onShowUnpause: function(e, slider) {}, onSlideInit: function(e, slider) {}, onSlideBegin: function(e, slider) {}, onSlideComplete: function(slider) {}, onSliderResize: function(e, slider) {}, clickForwardArrow: "click", clickBackArrow: "click", clickControls: "click focusin", clickSlideshow: "click", resumeOnVideoEnd: true, resumeOnVisible: true, addWmodeToObject: "opaque", isVideoPlaying: function(base) { return false; } }); });//\]\]>
-
 ## Course Overview
 
 This page focuses on the course 18.330 _Introduction to Numerical Analysis_ as it was taught by Professor Laurent Demanet in Spring 2012.
 
-This is a lecture-based course on basic techniques for the efficient numerical solution of problems in science and engineering. It is a centerpiece of MIT’s undergraduate offerings in applied mathematics.zz
+This is a lecture-based course on basic techniques for the efficient numerical solution of problems in science and engineering. It is a centerpiece of MIT’s undergraduate offerings in applied mathematics.
 
 ## Course Outcomes
 
@@ -21,7 +17,7 @@ This is a lecture-based course on basic techniques for the efficient numerical s
 
 - Familiarity with numerical discretization of objects learned in calculus, such as integrals, derivatives, and differential equations
 - An idea of the size of the errors involved in numerical discretization
-- Familiarity with Fourier analysis and its numerical implementation
+- Familiarity with Fourier analysis and its numerical implementation zz
 
 ### Possibilities for Further Study/Careers
 
@@ -49,10 +45,10 @@ I found it useful to show targeted numerical experiments with a clear message (l
 
 ### Prerequisites
 
-- [18.01 _Calculus I_](/courses/18-01-single-variable-calculus-fall-2006/)
-- [18.02 _Calculus II_](/courses/18-02-multivariable-calculus-fall-2007/)
-- [18.03 _Differential Equations_](/courses/18-03-differential-equations-spring-2010/)
-- [18.06 _Linear Algebra_](/courses/18-06-linear-algebra-spring-2010/)
+- [18.01 _Calculus I_](/courses/18-01-single-variable-calculus-fall-2006)
+- [18.02 _Calculus II_](/courses/18-02-multivariable-calculus-fall-2007)
+- [18.03 _Differential Equations_](/courses/18-03-differential-equations-spring-2010)
+- [18.06 _Linear Algebra_](/courses/18-06-linear-algebra-spring-2010)
 
 ### Requirements Satisfied
 
